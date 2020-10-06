@@ -1,2 +1,2 @@
-# Projects
-All the practice projects are stored here.
+# TG Projects
+All the practice projects are stored in this repository.
